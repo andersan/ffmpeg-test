@@ -1,0 +1,20 @@
+{
+  "name": "ffmpeg-airdev",
+  "version": "1.0.0",
+  "main": "audio-ffmpeg.js",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "any-shell-escape": "latest",
+    "axios": "latest",
+    "child_process": "latest",
+    "ffmpeg-static": "latest",
+    "ffprobe-static": "latest",
+    "fluent-ffmpeg": "latest",
+    "fs": "latest",
+    "node-fetch": "latest",
+    "path": "latest",
+    "promise": "latest",
+    "remote-ffprobe": "latest",
+    "request-promise": "latest"
+  }
+}
